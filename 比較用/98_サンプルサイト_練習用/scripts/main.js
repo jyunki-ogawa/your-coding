@@ -1,0 +1,2 @@
+new MobileMenu();
+new PageTopBtn();

@@ -1,0 +1,3 @@
+@use "parts/page-top-btn"; // トップ画面スタイル（ページ毎に作成）
+@use 'parts/mobile-menu-drop'; // モバイルメニュー(ドロップ型）
+@use "pages/home"; // トップ画面スタイル（ページ毎に作成）
